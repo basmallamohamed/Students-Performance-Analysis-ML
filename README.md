@@ -7,9 +7,9 @@ This repository contains a data analysis project using the [Students Performance
 Cleaned and preprocessed the Students Performance in Exams dataset using Python and Pandas, addressing data issues and missing values. Created an interactive Power BI dashboard to visualize trends in math, reading, and writing scores, applying statistical analysis to uncover insights for data-driven decisions.
 
 ## Dashboard
-Below is a screenshot of the Power BI dashboard visualizing student performance trends:
+Below is a picture of the Power BI dashboard visualizing student performance trends:
 
-![Dashboard Screenshot](Visuals/dashboard_picture.png)
+![Power BI dDashboard](Visuals/StudentsPerformance.jpg)
 
 ## Tools and Technologies
 - Python
